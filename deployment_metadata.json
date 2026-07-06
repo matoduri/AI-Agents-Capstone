@@ -1,11 +1,7 @@
 {
-  "remote_agent_runtime_id": "None",
-  "deployment_timestamp": "None",
-  "pending_operation": {
-    "operation_name": "projects/929682308166/locations/us-east1/reasoningEngines/896744091428061184/operations/446513115148845056",
-    "project": "capstone-challenge-501506",
-    "location": "us-east1",
-    "deployment_target": "agent_runtime",
-    "started_at": "2026-07-06T18:53:55.951815+00:00"
-  }
+  "remote_agent_runtime_id": "projects/929682308166/locations/us-east1/reasoningEngines/896744091428061184",
+  "deployment_target": "agent_runtime",
+  "is_a2a": true,
+  "agent_directory": "app",
+  "deployment_timestamp": "2026-07-06T18:59:09.021515+00:00"
 }
